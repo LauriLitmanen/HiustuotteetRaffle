@@ -1,2 +1,2 @@
 # HiustuotteetRaffle
-Script to scrape a facebook raffle comments
+Script to scrape facebook raffle comments
